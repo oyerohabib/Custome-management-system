@@ -25,7 +25,7 @@ SECRET_KEY = 'hr^i7t@_3_-fu+j7d))x#p0vtq%=@hpoke@=1vg80=!gxg%qf9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['oyero-crm.herokuapp.com', 'localhost']
 
 
 # Application definition
